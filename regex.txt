@@ -1,0 +1,16 @@
+vcdn.adnxs.com
+(^|\.)adclick\.g\.doubleclick\.net$
+(^|\.)adclick\.g\.doubleclick\.net$
+(^|\.)s0\.2mdn\.net$
+(^|\.)nym1-ib\.adnxs\.com$
+(^|\.)d\.adroll\.com$
+(^|\.)googleads\.g\.doubleclick\.net$
+(^|\.)d\.adroll\.com$
+(^|\.)pixel\.adsafeprotected\.com$
+(^|\.)insight\.adsrvr\.org$
+(^|\.)doubleclick\.net$
+adservice.google.com
+(^|\.)monsterpainintheas\.tumblr\.com$
+(^|\.)happy\.luckyparkclub\.com$
+(^|\.)178\.77\.120\.1$
+(^|\.)178\.77\.120\.254$
